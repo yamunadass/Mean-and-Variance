@@ -48,6 +48,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+```
 Name:Yamuna M
 Reference Number:212223230248
 
@@ -73,6 +74,7 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
+```
 # Output : 
 ![image](https://github.com/yamunadass/Mean-and-Variance/assets/138971172/97cd672f-e770-40be-aa69-e2f034a2a804)
 
